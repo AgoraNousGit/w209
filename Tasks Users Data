@@ -1,0 +1,22 @@
+Users
+
+- Amateur Chefs
+- Food Classifiers
+- General Population
+
+Tasks
+
+- Suggest ingredients, given an intital subset
+  - additions
+  - changes
+  - deletions?
+  
+- Classify foods by country/region of origin
+  - primary affiliation
+  - other influences?
+  
+- Cultural Awareness
+  - patterns of food choice
+  - suggestions for foods representing "typical" dishes
+  - patterns of relationship between regions
+  
